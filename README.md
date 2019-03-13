@@ -8,3 +8,5 @@ Exemplos de site:
 https://valadares.sigiss.com.br/valadares/index.php
 
 Por favor ajude a melhorar o projeto e desenvolver a emissão em lote para novas empresas como EL e outros.
+
+Caso tenha dúvidas ou precise de ajuda, pode enviar um email para valterpatrick@hotmail.com com o assunto NFSe_AM
